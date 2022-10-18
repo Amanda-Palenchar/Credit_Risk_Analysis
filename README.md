@@ -39,4 +39,4 @@ It is difficult to recommend a model for this analysis because of how poorly the
 
 However, none of the models fit the data particularly well. The Easy Ensemble Classifier's higher sensitivity score comes with an incredibly low precision calculation. This signifies that the model is "over classifying" data points as high risk.
 
-In order to create models that better fit and predict data points, narrowing down the columns may be a strategy to reduce overfitting and improve the fit of all of these models. It is possible that some of the columns in the data are less relavent to predicting credit risk than others.  
+In order to create models that better fit and predict data points, narrowing down the columns may be a strategy to reduce overfitting and improve the fit of all of these models. It is possible that some of the columns in the data are less relevant to predicting credit risk than others.  
